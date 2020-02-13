@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://fitkovich1.github.io/Counter",
+  "homepage": "https://fitkovich1.github.io/CounterRedux",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.10.2",
@@ -13,7 +13,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy": "yarn run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",

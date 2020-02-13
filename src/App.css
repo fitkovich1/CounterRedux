@@ -1,5 +1,7 @@
 .App {
-    background-image: url("https://regnum.ru/uploads/pictures/news/2019/10/05/regnum_picture_1570268119176158_normal.jpg");
+    background-image: url("https://astromega.ru/wp-content/uploads/2017/10/mulank-arrange-love-marriage.jpg");
+    background-size: cover;
+    box-sizing: border-box;
     background-repeat: no-repeat;
     height: 100vh;
 }
