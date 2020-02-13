@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/CounterRedux/static/css/main.407eac69.chunk.css",
-    "main.js": "/CounterRedux/static/js/main.a54077bd.chunk.js",
-    "main.js.map": "/CounterRedux/static/js/main.a54077bd.chunk.js.map",
+    "main.css": "/CounterRedux/static/css/main.e71877c7.chunk.css",
+    "main.js": "/CounterRedux/static/js/main.797ee562.chunk.js",
+    "main.js.map": "/CounterRedux/static/js/main.797ee562.chunk.js.map",
     "runtime-main.js": "/CounterRedux/static/js/runtime-main.70a0c4eb.js",
     "runtime-main.js.map": "/CounterRedux/static/js/runtime-main.70a0c4eb.js.map",
     "static/js/2.a2b469ac.chunk.js": "/CounterRedux/static/js/2.a2b469ac.chunk.js",
     "static/js/2.a2b469ac.chunk.js.map": "/CounterRedux/static/js/2.a2b469ac.chunk.js.map",
     "index.html": "/CounterRedux/index.html",
-    "precache-manifest.47aa29b6f547a312ffd443b84bd298a8.js": "/CounterRedux/precache-manifest.47aa29b6f547a312ffd443b84bd298a8.js",
+    "precache-manifest.182bdbe02ea974acec28d0b43de21080.js": "/CounterRedux/precache-manifest.182bdbe02ea974acec28d0b43de21080.js",
     "service-worker.js": "/CounterRedux/service-worker.js",
-    "static/css/main.407eac69.chunk.css.map": "/CounterRedux/static/css/main.407eac69.chunk.css.map"
+    "static/css/main.e71877c7.chunk.css.map": "/CounterRedux/static/css/main.e71877c7.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.70a0c4eb.js",
     "static/js/2.a2b469ac.chunk.js",
-    "static/css/main.407eac69.chunk.css",
-    "static/js/main.a54077bd.chunk.js"
+    "static/css/main.e71877c7.chunk.css",
+    "static/js/main.797ee562.chunk.js"
   ]
 }
